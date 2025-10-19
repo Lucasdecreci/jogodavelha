@@ -1,4 +1,5 @@
 # Jogo da Velha em Python  
+Lucas Juliano Decreci - RM566737
 
 Este projeto implementa o clássico jogo da velha (tic-tac-toe) para dois jogadores no terminal, utilizando a linguagem **Python**.  
 
